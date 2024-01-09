@@ -1,0 +1,15 @@
+import random
+
+# Generate a list of 5 random numbers
+numbers = [random.randint(1, 10) for _ in range(5)]
+
+# Calculate the sum of numbers
+sum_of_numbers = sum(numbers)
+
+# Find the square of the sum
+square_of_sum = sum_of_numbers ** 2
+
+# Print the results
+print(f"Generated Numbers: {numbers}")
+print(f"Sum of Numbers: {sum_of_numbers}")
+print(f"Square of the Sum: {square_of_sum}")
