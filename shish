@@ -7,7 +7,7 @@ numbers = [random.randint(1, 10) for _ in range(5)]
 sum_of_numbers = sum(numbers)
 
 # Find the square of the sum
-square_of_sum = sum_of_numbers ** 2
+square_of_sum = sum_of_numbers ** 3
 
 # Print the results
 print(f"Generated Numbers: {numbers}")
