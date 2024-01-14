@@ -9,6 +9,7 @@ sum_of_numbers = sum(numbers)
 # Find the square of the sum
 square_of_sum = sum_of_numbers ** 5
 
+Clockkwise 
 # Print the results
 print(f"Generated Numbers: {numbers}")
 print(f"Sum of Numbers: {sum_of_numbers}")
