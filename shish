@@ -14,3 +14,4 @@ Clockkwise
 print(f"Generated Numbers: {numbers}")
 print(f"Sum of Numbers: {sum_of_numbers}")
 print(f"Square of the Sum: {square_of_sum}")
+end
