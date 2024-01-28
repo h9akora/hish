@@ -8,7 +8,7 @@ sum_of_numbers = sum(numbers)
 
 # Find the square of the sume a
 square_of_sum = sum_of_numbers ** 5
-# little
+# littleص
 Clockkwise 
 # Print the results
 print(f"Generated Numbers: {numbers}")
