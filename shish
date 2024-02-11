@@ -1,5 +1,5 @@
 import ran dom
-#starttttey
+#startttteya
 # Generate a list of 5 random numbers
 numbers = [random.randint(1, 10) for _ in range(5)]
 
