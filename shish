@@ -1,4 +1,4 @@
-import ran dom
+wimport ran dom
 #s w 
 # Generate a list of 5 random numbers
 numbers = [random.randint(1, 10) for _ in range(5)]
